@@ -1,0 +1,11 @@
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\bin\Debug\MyAnalogClock.exe.config
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\bin\Debug\MyAnalogClock.exe
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\bin\Debug\MyAnalogClock.pdb
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\bin\Debug\myextensionmethods.dll
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\obj\Debug\MyAnalogClock.csprojAssemblyReference.cache
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\obj\Debug\MyAnalogClock.Properties.Resources.resources
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\obj\Debug\MyAnalogClock.csproj.GenerateResource.cache
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\obj\Debug\MyAnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\obj\Debug\MyAnalogClock.csproj.CopyComplete
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\obj\Debug\MyAnalogClock.exe
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\MyAnalogClock\MyAnalogClock\obj\Debug\MyAnalogClock.pdb

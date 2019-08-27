@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>myextensionmethods</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+  </metadata>
+  <files>
+    <file src="..\bin\$configuration$\myextensionmethods.dll" target="lib\net47" />
+    <file src="..\bin\$configuration$\myextensionmethods.dll" target="lib\net46" />
+  </files>  
+</package>

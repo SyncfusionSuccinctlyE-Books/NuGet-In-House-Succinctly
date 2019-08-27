@@ -1,0 +1,6 @@
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myestensionmethods\myestensionmethods\bin\Debug\myestensionmethods.dll
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myestensionmethods\myestensionmethods\bin\Debug\myestensionmethods.pdb
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myestensionmethods\myestensionmethods\obj\Debug\myestensionmethods.csproj.CoreCompileInputs.cache
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myestensionmethods\myestensionmethods\obj\Debug\myestensionmethods.dll
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myestensionmethods\myestensionmethods\obj\Debug\myestensionmethods.pdb
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myestensionmethods\myestensionmethods\obj\Debug\myestensionmethods.csprojAssemblyReference.cache

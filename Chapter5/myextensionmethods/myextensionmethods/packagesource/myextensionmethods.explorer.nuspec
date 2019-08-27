@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>myextensionmethods</id>
+    <version>1.0.0.0</version>
+    <authors>NuGet In House Succinctly</authors>
+    <owners>NuGet In House Succinctly</owners>
+    <description>Extension Methods for NuGet in House Succinctly</description>
+    <copyright> NuGet In House Succinctly</copyright>
+  </metadata>
+  <files>
+    <file src="..\bin\Debug\myextensionmethods.dll" target="lib\net47" />
+    <file src="..\bin\Debug\myextensionmethods.dll" target="lib\net46" />
+  </files>  
+</package>

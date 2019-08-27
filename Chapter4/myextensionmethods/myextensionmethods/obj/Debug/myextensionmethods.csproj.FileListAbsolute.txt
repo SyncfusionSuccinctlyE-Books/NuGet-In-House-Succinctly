@@ -1,0 +1,5 @@
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myextensionmethods\myextensionmethods\bin\Debug\myextensionmethods.dll
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myextensionmethods\myextensionmethods\bin\Debug\myextensionmethods.pdb
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myextensionmethods\myextensionmethods\obj\Debug\myextensionmethods.csproj.CoreCompileInputs.cache
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myextensionmethods\myextensionmethods\obj\Debug\myextensionmethods.dll
+C:\Users\J Roberto Olivas\Documents\Visual Studio 2017\Projects\myextensionmethods\myextensionmethods\obj\Debug\myextensionmethods.pdb
