@@ -103,7 +103,7 @@ namespace MyAnalogClock
 
         /// <summary>
         /// Handles the MouseDown event of the form, in order to
-        /// allow dragging from anywhere of the clock's surface.
+        /// allow dragging from anywhere on the clock's surface.
         /// </summary>
         /// <param name="sender">Instance of the form that raises the event.</param>
         /// <param name="e">Instance of <see cref="EventArgs"/> which holds the data for managing the event.</param>
