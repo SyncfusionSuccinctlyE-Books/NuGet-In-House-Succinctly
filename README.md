@@ -6,4 +6,4 @@ This is the companion repo for [*NuGet In-House Succinctly*](https://www.syncfus
 
 ## Looking for more _Succinctly_ titles?
 
-Check out the entire library of more than 170 _Succinctly_ e-books at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
+Check out the entire library of more than 170 _Succinctly_ ebooks at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
